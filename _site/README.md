@@ -1,2 +1,2 @@
-# LoveRecord
-Record everyting between us.
+#LoveRecord
+Record everything between us.
